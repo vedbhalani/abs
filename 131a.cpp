@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     string s;
     cin>>s;
-    int c=0;
+    int x=0;
     string w=s;
     for(int i=0;i<s.length();i++){
         if(s[i]>='A'&&s[i]<='Z') c++;
