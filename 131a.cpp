@@ -23,6 +23,6 @@ int main(){
     }
     }
 
-    cout<<w<<endl;
+    cout<<w;
     return 0;
 }
